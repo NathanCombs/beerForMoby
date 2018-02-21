@@ -1,0 +1,62 @@
+.homePage {
+  margin: auto;
+}
+
+html {
+  /*height: 100%;*/
+  /* The image used */
+  background-image: url("https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/3/fb/3fb754b9-9b84-51aa-8a98-c32e54ed2706/567b36544c318.image.jpg?resize=1200%2C800");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/3/fb/3fb754b9-9b84-51aa-8a98-c32e54ed2706/567b36544c318.image.jpg?resize=1200%2C800");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#mapid { height: 180px; }
+#catMap {margin-left: auto; 
+        margin-right: auto}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
