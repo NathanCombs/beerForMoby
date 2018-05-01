@@ -1,3 +1,5 @@
+Short group project for Montana Code School: a web app to help the resident cat find a good local beer.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
